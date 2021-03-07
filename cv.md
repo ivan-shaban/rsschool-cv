@@ -20,9 +20,9 @@ Hello, my name is Vanya! I like computer games and their development, rather tha
 I'm a self-motivated and communicative man, keep an eye on the technical novelties, interested to try something new in web development. I like order in workflow. I'm also familiar with most popular software development methods (scrum, kanban, etc..).
 
 #### Technologies:
-- Adobe Flash \ Adobe AIR \ Scaleform (AS2 \ AS3) \ Gameface
+- Adobe Flash \ Adobe AIR \ Scaleform (AS2 \ AS3)
 - XML \ JSON \ AMFPHP \ RPC \ Protobuf \ Sockets
-- Javascript \ Typescript \ HTML \ CSS \ Jade
+- Javascript \ Typescript \ HTML \ CSS \ Jade \ Gameface
 - Python \ Nodejs
 
 #### Tools:
