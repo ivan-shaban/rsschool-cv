@@ -1,0 +1,32 @@
+html {
+    min-width: 1000px;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    width: 60%;
+    margin: 0 auto;
+    padding: 40px;
+}
+
+section {
+    margin-top: 20px;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    margin: 0 0 5px 0;
+}
+
+.avatar {
+    float: right;
+    height: 175px;
+}
+
+.subsection {
+    padding-left: 20px;
+    font-weight: bold;
+}
+
+.subsection2 {
+    padding-left: 40px;
+}
